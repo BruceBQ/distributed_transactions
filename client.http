@@ -1,0 +1,11 @@
+@host=http://localhost:8080
+
+POST {{host}}/order/create
+###
+
+
+POST {{host}}/order/cancel
+###
+
+POST {{host}}/do
+###
